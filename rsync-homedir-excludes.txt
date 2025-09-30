@@ -22,7 +22,7 @@ Videos
 Pictures
 Movies
 subversion01
-gitgub
+git
 Temp
 .local/lib/python*
 #
